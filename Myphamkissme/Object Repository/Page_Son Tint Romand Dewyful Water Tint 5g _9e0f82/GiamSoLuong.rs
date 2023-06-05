@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GiamSoLuong</name>
+   <tag></tag>
+   <elementGuidId>76a47dbc-d34e-4e59-9c38-e36c9d0b00cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-caret-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='add-to-cart-form']/div[3]/div/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9632e0fc-99d4-420b-b8f6-55d8c711cb5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-caret-down</value>
+      <webElementGuid>8a5204bb-8e0e-4422-be1a-193a215900ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-to-cart-form&quot;)/div[@class=&quot;form-group btn-form-product product__quantity&quot;]/div[@class=&quot;abctest&quot;]/div[@class=&quot;quantityabc&quot;]/span[@class=&quot;quantity__down&quot;]/i[@class=&quot;fa fa-caret-down&quot;]</value>
+      <webElementGuid>79fbc8d1-c501-422e-a14b-4aac14ee63a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='add-to-cart-form']/div[3]/div/div/span/i</value>
+      <webElementGuid>474e46f3-8f3d-4bf3-9ffa-ef8b810e4404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/i</value>
+      <webElementGuid>7fb7a79c-0f04-4c58-9565-f7812f0b91bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

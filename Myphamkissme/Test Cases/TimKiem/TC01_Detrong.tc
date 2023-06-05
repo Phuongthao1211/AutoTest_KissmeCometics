@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Detrong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86a2fd4b-d674-4b8e-8503-d266b80aaa75</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>951f80ef-8e4c-4291-a923-e1a57c840b8c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>951f80ef-8e4c-4291-a923-e1a57c840b8c</id>
+      <masked>false</masked>
+      <name>timkiem</name>
+   </variable>
+</TestCaseEntity>

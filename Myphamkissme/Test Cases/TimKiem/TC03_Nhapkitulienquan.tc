@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Nhapkitulienquan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d819e501-7bb5-4efe-b981-0678008a7183</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0521cb45-b2a6-4976-a701-4fe09485ae09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0521cb45-b2a6-4976-a701-4fe09485ae09</id>
+      <masked>false</masked>
+      <name>timkiem</name>
+   </variable>
+</TestCaseEntity>

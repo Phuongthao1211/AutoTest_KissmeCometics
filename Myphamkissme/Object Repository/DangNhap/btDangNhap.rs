@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btDangNhap</name>
+   <tag></tag>
+   <elementGuidId>90cfdb20-ce1c-4272-adf0-cb35d8fd8702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Đăng nhập']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>558a9a1a-e847-4a30-bcee-85290948d913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn  btn-style</value>
+      <webElementGuid>b9fcb138-4441-4cc2-8843-e618e16885d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>6b791943-31b4-40f6-abb3-b451eb6c3c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Đăng nhập</value>
+      <webElementGuid>09b76c8c-727c-4de3-b3e2-1cc8bbe1eb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_login&quot;)/div[@class=&quot;form-signup clearfix&quot;]/div[@class=&quot;pull-xs-left&quot;]/input[@class=&quot;btn  btn-style&quot;]</value>
+      <webElementGuid>1b45c69e-87ca-4e0c-a338-f1aeeb342229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Đăng nhập']</value>
+      <webElementGuid>b390cb5d-3d1c-46f9-911c-899098b80ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customer_login']/div[2]/div/input</value>
+      <webElementGuid>37f83c73-1d16-4199-82af-50aa0f223629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>a8abe95a-27d5-46d5-8fc2-8c11a2a27894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>f3816bfc-6e58-470f-a2d7-16c6311178b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

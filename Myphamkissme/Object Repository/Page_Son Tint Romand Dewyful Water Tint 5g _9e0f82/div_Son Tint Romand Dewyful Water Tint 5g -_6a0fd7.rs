@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Son Tint Romand Dewyful Water Tint 5g -_6a0fd7</name>
+   <tag></tag>
+   <elementGuidId>9c87e661-36fe-46a0-86fe-e680d9dfe9de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myModal']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54c30840-7a02-4c60-8146-d33f8d2c4154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>98bb5919-f84c-4dad-bb8a-b4ec98b7d757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Son Tint Romand Dewyful Water Tint 5g - 03 If Rose180.000 đTiếp tục mua hàngTiến hành thanh toán »</value>
+      <webElementGuid>4e10d050-add9-4fb8-9231-5faaf0bdffa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>22a44031-fc19-4040-8b52-472e717f725e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myModal']/div/div/div[2]</value>
+      <webElementGuid>c5e34efb-657a-4ca2-95f5-8158dc45761b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm vào giỏ hàng thành công'])[1]/following::div[1]</value>
+      <webElementGuid>0edaf64b-1c43-42de-a233-9b35821ab444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành thanh toán'])[1]/following::div[9]</value>
+      <webElementGuid>20bc3bc4-5c58-4eb5-88ac-28f6484a1a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]</value>
+      <webElementGuid>cc005390-544b-405c-8d20-e459e6999ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Son Tint Romand Dewyful Water Tint 5g - 03 If Rose180.000 đTiếp tục mua hàngTiến hành thanh toán »' or . = 'Son Tint Romand Dewyful Water Tint 5g - 03 If Rose180.000 đTiếp tục mua hàngTiến hành thanh toán »')]</value>
+      <webElementGuid>912b327a-7880-4ead-bdb4-cd4b14dcfa88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

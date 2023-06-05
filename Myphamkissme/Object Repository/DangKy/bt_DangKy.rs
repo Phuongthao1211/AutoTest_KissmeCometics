@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bt_DangKy</name>
+   <tag></tag>
+   <elementGuidId>b3fcd223-a352-4750-847e-7cfa958d5e25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='Đăng ký']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>732e1aca-5ad1-4a6e-a7a5-baa83819a9c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>summit</value>
+      <webElementGuid>235ac9c6-35e6-4137-966d-5d90d8246624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Đăng ký</value>
+      <webElementGuid>29b176af-295b-4ade-9fd8-dd84c1361026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-style</value>
+      <webElementGuid>7774845e-6d30-4fba-b431-5bb0e1daf1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng ký</value>
+      <webElementGuid>13e6113a-adf8-482c-b68b-5ed9113a957d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_register&quot;)/div[@class=&quot;form-signup clearfix&quot;]/div[@class=&quot;col-xs-12 text-xs-center&quot;]/button[@class=&quot;btn btn-style&quot;]</value>
+      <webElementGuid>6e67de73-9f41-43d0-9283-4067d4373e26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='Đăng ký']</value>
+      <webElementGuid>70694515-7df8-416f-99a8-6a6901b553dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customer_register']/div[2]/div/button</value>
+      <webElementGuid>447c7197-e42a-432c-a693-f9bfdb9d0e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký tài khoản'])[1]/following::button[1]</value>
+      <webElementGuid>0f865126-db02-497a-90bd-e0e568898629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[3]/following::button[1]</value>
+      <webElementGuid>3eba1194-ea09-49b2-a9ee-07dcde86b397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='myphamkissme@gmail.com'])[1]/preceding::button[1]</value>
+      <webElementGuid>55102ec7-72e2-47e3-8fbf-234108c92ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản'])[1]/preceding::button[1]</value>
+      <webElementGuid>3ea2d6e0-aafb-4c6e-a497-1aebc2b41b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>d9c82301-e449-474b-aa33-1511298b5b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'summit' and (text() = 'Đăng ký' or . = 'Đăng ký')]</value>
+      <webElementGuid>e596cb44-c8de-411c-909e-c064c058ee94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
